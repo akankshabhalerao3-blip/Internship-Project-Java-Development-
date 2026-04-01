@@ -1,0 +1,4 @@
+Enter file path (with extension): data.txt
+Do you want to Encrypt or Decrypt? (E/D): E
+Enter key (number): 3
+Operation completed. Result saved in: encrypted_data.txt
