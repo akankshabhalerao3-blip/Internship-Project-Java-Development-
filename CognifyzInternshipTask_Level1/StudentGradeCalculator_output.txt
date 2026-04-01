@@ -1,0 +1,10 @@
+Enter the number of grade 
+3
+Enter grade 
+88
+Enter grade 
+90
+Enter grade 
+78
+sum of total grade : 256.0
+Average of 3 grades : 85.33
